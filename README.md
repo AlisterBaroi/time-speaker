@@ -11,4 +11,5 @@ The function accepts following parameters:
 1. INTEGER: h
 2. INTEGER: m
 ## 
-![time-speaker](https://github.com/AlisterBaroi/time-speaker/assets/44337842/5e0ef97b-1b81-459c-b3cf-b512db32ece3)
+
+![demo](https://raw.githubusercontent.com/AlisterBaroi/time-speaker/main/img/demo.gif)
